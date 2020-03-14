@@ -1,2 +1,2 @@
 # Text_classification
-Text classification of amazon reviews 
+Text classification of amazon reviews using TfIdf vectorizer
